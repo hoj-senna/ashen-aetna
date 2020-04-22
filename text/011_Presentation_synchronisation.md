@@ -1251,5 +1251,5 @@ impl Drop for Aetna {
 I said triangle) is the longest and most difficult part of the Vulkan journey. (To be fair, that's a somewhat bold claim to make for someone whose
 Vulkan journey exceeds this initial walk by a few small steps only. But the sentiment seems to be shared by more experienced programmers.) We have
 touched on so many topics already that we have done much more than "just drawing a dot" and have at least some idea of what all is happening behind
-the scenes. Before we go on to turn this "dot on screen" program into something at least slightly more exciting, let us have a [look
-back](012_Looking_back.md).
+the scenes. Before we go on to turn this "dot on screen" program into something at least slightly more exciting, let us have a [look](012_Looking_back.md) 
+back.

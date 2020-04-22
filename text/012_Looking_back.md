@@ -14,7 +14,7 @@ We wanted to draw. Somewhere there is literally a "draw" command. Maybe we shoul
 Two obvious questions spring to mind: 1. How do we get this command to the GPU? 2. What does "drawing" mean? Or more granularly: 2a. What do we want
 to draw? 2b. What, besides a description of what to draw, do we need so that it becomes visible on the screen? 
 
-1. Commands are recorded in command buffers, these command buffers are submitted to queues.  
+* 1  Commands are recorded in command buffers, these command buffers are submitted to queues.  
 
 * 2b. First of all, there has to *be* a screen, or something to draw on. We made a detour from Vulkan to set up a window with winit, and made it
 available to Vulkan as a "surface". Associated to this surface — so as to not having to draw on what is currently shown, but to prepare the picture in

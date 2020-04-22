@@ -5,7 +5,8 @@
 # Coordinates 
 *(If you haven't followed along with the Vulkan setup, because your priority lies with graphics programming and not with API-specifics of talking to the
 driver, you should grab the file contents near the end of [Chapter 11](011_Presentation_synchronisation.md). You may (in case of Windows or Mac: will) 
-have to adjust some platform-specific code; it should be confined to [Chapter 6](006_Window.md).)*
+have to adjust some platform-specific code; it should be confined to [Chapter 6](006_Window.md). Some problems could also result from the setup in [Chapter
+4](004_Physical_device.md))*
 
 Now that we have something on the screen, let us have a closer look at the programs running on the GPU, the shaders. 
 You will recall our vertex shader: 

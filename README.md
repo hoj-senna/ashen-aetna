@@ -3,7 +3,8 @@
 ###### (A tutorial on/in/about/with 3D graphics, Rust, Vulkan, ash)
 
 ###### Index
-0. [Preface](text/000_Preface.md)
+* [Preface](text/000_Preface.md)
+
 1. [What's the plan? — Some hints on what to expect](text/001_Plan.md)
 2. [Beginnings](text/002_Beginnings.md)
 3. [Validation layers](text/003_Validation_layers.md)
@@ -20,3 +21,5 @@
 14. [Vectors, Linear Maps, Matrices](text/014_Vectors_Matrices.md)
 15. [Not quite linear enough](text/015_Not_so_linear.md)
 16. [Homogeneous Coordinates](text/016_Homogeneous_Coordinates.md)
+
+
