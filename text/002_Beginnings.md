@@ -23,7 +23,7 @@ point of graphics programming if we don't have one?). Actually, for the GPU we w
 So, first the Vulkan instance, which ash provides us with. (Ash wraps the Vulkan API (which is C code) in a very thin layer of Rust code, so that we 
 can call the functions from Rust. This is a somewhat minimal amount of work and provides little additional convenience, but it means that calls to ash 
 mirror the corresponding calls we might find in Vulkan tutorials written for other languages or in the Vulkan spec rather closely. 
-We start a new project (cargo new vulkanrenderer --bin), and include ash in the Cargo.toml (ash="0.30.0"). We then create an entry (the, well, entry
+We start a new project (`cargo new vulkanrenderer --bin`), and include ash in the `Cargo.toml` (`ash="0.30.0"`). We then create an entry (the, well, entry
 to all things Vulkan - or: the thing that loads the dynamic library containing the volcano) and an instance: 
 ```rust
 use ash::version::EntryV1_0;
@@ -34,7 +34,7 @@ fn main() {
 }
 ```
 What's with the unsafe? Isn't unsafe bad? Well, no. Unsafe means that the Rust compiler does not give any guarantees about the code in here. And here,
-of course, it can't: After all, we're using some external (C++) library.  Rule of thumb: There will be an "unsafe" whenever we actually call Vulkan
+of course, it can't: After all, we're using some external (C++) library.  Rule of thumb: There will be an `unsafe` whenever we actually call Vulkan
 functions. Next problem: The entry creation can fail (therefore, entry is actually a Result, and we cannot call `entry.create_instance`), and so can
 instance creation; we better adjust our main(): 
 
