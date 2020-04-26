@@ -26,8 +26,10 @@ mirror the corresponding calls we might find in Vulkan tutorials written for oth
 We start a new project (cargo new vulkanrenderer --bin), and include ash in the Cargo.toml (ash="0.30.0"). We then create an entry (the, well, entry
 to all things Vulkan - or: the thing that loads the dynamic library containing the volcano) and an instance: 
 ```rust
+use ash::version::EntryV1_0;
+
 fn main() {
-    let entry = ash::Entry::new();
+    let entry = ash::Entry::new().unwrap();
     let instance = unsafe { entry.create_instance(&Default::default(), None) };
 }
 ```
