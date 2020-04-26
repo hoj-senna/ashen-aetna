@@ -24,6 +24,6 @@
 17. [Passing data between shaders](text/017_Data_between_shaders.md)
 18. [Getting data to the vertex shader](text/018_Vertexshader.md)
 19. [More points (and instanced rendering)](text/019_More_points.md)
-20. [Finally: The first triangle](text/020_First_triangle.md)
+20. [Finally: The first triangle](text/020_First_Triangle.md)
 
 
