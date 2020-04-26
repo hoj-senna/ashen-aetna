@@ -37,7 +37,7 @@ functions. Next problem: The entry creation can fail (therefore, entry is actual
 instance creation; we better adjust our main(): 
 
 ```rust
-(fn main() -> Result<(), Box<dyn std::error::Error>> {
+fn main() -> Result<(), Box<dyn std::error::Error>> {
     let entry = ash::Entry::new()?;
     let instance = unsafe { entry.create_instance(&Default::default(), None)? };
     Ok(())
