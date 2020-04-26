@@ -21,5 +21,9 @@
 14. [Vectors, Linear Maps, Matrices](text/014_Vectors_Matrices.md)
 15. [Not quite linear enough](text/015_Not_so_linear.md)
 16. [Homogeneous Coordinates](text/016_Homogeneous_Coordinates.md)
+17. [Passing data between shaders](text/017_Data_between_shaders.md)
+18. [Getting data to the vertex shader](text/018_Vertexshader.md)
+19. [More points (and instanced rendering)](text/019_More_points.md)
+20. [Finally: The first triangle](text/020_First_triangle.md)
 
 
