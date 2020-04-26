@@ -133,7 +133,7 @@ Because we can write every vector
 Let's say, 
 <img src="svg/014_-860738aa2189d56f53ec9d2dcf4ab11f8850ec3ca82f99cfe015638c27d4df4d.svg?sanitize=true?invert_in_darkmode" align="middle" width="101.66658pt" height="67.09143pt"/>, 
 <img src="svg/014_-13e2b32205a1a45399e2e2b0290883624ffa7fe3b23e4548d6f9283b2e3bb6bd.svg?sanitize=true?invert_in_darkmode" align="middle" width="102.34692pt" height="67.09143pt"/>, 
-<img src="svg/014_-24f39435b8a48ac620b576d59cf532224390eff9e0f5264b79bbdf46fa9359cf.svg?sanitize=true?invert_in_darkmode" align="middle" width="101.708145pt" height="67.09143pt"/> (or, if you prefer a longer form with less line height:
+<img src="svg/014_-24f39435b8a48ac620b576d59cf532224390eff9e0f5264b79bbdf46fa9359cf.svg?sanitize=true?invert_in_darkmode" align="middle" width="101.708145pt" height="67.09143pt"/> — or, if you prefer a longer form with less line height:
 
 <img src="svg/014_-1bf8836defcc75fc805c0c3f90636d13a148932ba38d95b46c5967a5d0b4a13e.svg?sanitize=true?invert_in_darkmode" align="middle" width="171.75803pt" height="24.545448pt"/>, 
 <img src="svg/014_-e0b936e52548750756aa6585854c61c7706762fa7ff59c3f0720daa0af67aefe.svg?sanitize=true?invert_in_darkmode" align="middle" width="174.47058pt" height="24.545448pt"/>, 
