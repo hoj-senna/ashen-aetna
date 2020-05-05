@@ -2,6 +2,8 @@
 #### — Rustily stumbling around on an ash-covered volcano 
 ###### (A tutorial on/in/about/with 3D graphics, Rust, Vulkan, ash)
 
+[Skip intro and disclaimers](002_Beginnings.md)
+
 # Preface 
 Why another graphics programming tutorial? I don't think there are *too many* Vulkan tutorials already, especially not in Rust. In any case, a slightly
 different explanation may be helpful (be it on Vulkan, on Rust, or on the basics of 3D in general). Some words on my plans with this see below; first
