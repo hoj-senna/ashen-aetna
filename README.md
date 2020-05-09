@@ -32,4 +32,7 @@
 25. [Angles, orthogonality, rotations](text/025_Angles.md) 
 26. [A Camera](text/026_Camera.md)
 27. [Camera, part II: Perspective](text/027_Perspective.md)
-
+28. [Indexed drawing](text/028_Indexing.md)
+29. [Boring Code Cleanup](text/029_Cleanup.md)
+30. [A Sphere](text/030_Sphere.md)
+31. [Normals - and very basic shading](text/031_Normals.md)

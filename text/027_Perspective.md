@@ -406,4 +406,4 @@ we have no good way to set a `view_direction` directly (because the `down_direct
  we have no ways to set the perspective parameters (or, rather: we have to call `update_projectionmatrix` manually, afterwards) — but I'll leave it at
 that. 
 
-[Continue (when the next chapter is ready)]  ()
+[Continue](028_Indexing.md)
