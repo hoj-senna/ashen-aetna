@@ -36,3 +36,4 @@
 29. [Boring Code Cleanup](text/029_Cleanup.md)
 30. [A Sphere](text/030_Sphere.md)
 31. [Normals - and very basic shading](text/031_Normals.md)
+32. [Screenshots](text/032_Screenshot.md)

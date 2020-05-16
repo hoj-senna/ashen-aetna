@@ -557,6 +557,6 @@ This model is much too basic, but much, much better than what we had before. And
 (We'll have to come back and improve the shading, and do something about the fact that the light direction is just one hard-coded value in the
 fragment shader.) 
 
-[Continue]  ( next chapter not yet ready ) 
+[Continue](032_Screenshot.md) 
 
 
