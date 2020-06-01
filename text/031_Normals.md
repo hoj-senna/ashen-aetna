@@ -461,7 +461,7 @@ layout (location=1) out vec3 out_normal;
 void main() {
     gl_Position = ubo.projection_matrix*ubo.view_matrix*model_matrix*vec4(position,1.0);
     colourdata_for_the_fragmentshader=vec4(colour,1.0);
-    out_normal=vec3(inverse_model_matrix*vec4(normal,0.0));
+    out_normal = transpose(mat3(inverse_model_matrix))*normal;
 }
 ```
 and 
@@ -558,5 +558,4 @@ This model is much too basic, but much, much better than what we had before. And
 fragment shader.) 
 
 [Continue](032_Screenshot.md) 
-
 
