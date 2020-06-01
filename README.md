@@ -37,3 +37,5 @@
 30. [A Sphere](text/030_Sphere.md)
 31. [Normals - and very basic shading](text/031_Normals.md)
 32. [Screenshots](text/032_Screenshot.md)
+33. [Light](text/033_Light.md)
+34. [The BRDF](text/034_BRDF.md)
