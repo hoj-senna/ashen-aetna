@@ -40,3 +40,4 @@
 33. [Light](text/033_Light.md)
 34. [The BRDF](text/034_BRDF.md)
 35. [Storage Buffer](text/035_StorageBuffer.md)
+36. [Resizing the window](text/036_Resizing.md)

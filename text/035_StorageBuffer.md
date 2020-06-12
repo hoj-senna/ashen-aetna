@@ -833,4 +833,4 @@ void main(){
 }
 ```
 
-[Continue] (don't yet know with what)
+[Continue](036_Resizing.md)
