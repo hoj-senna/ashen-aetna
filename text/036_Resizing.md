@@ -168,4 +168,4 @@ And then we call this function, not forgetting about updating the buffer either:
                     }
 ```
 
-[Continue]  (Next chapter may take some time)
+[Continue](037_Texture.md)
