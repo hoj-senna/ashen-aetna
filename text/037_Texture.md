@@ -526,6 +526,7 @@ Next, there should be a commandbuffer so that we can actually send some commands
         }?;
         unsafe { aetna.device.wait_for_fences(&[fence], true, std::u64::MAX) }?;
         unsafe { aetna.device.destroy_fence(fence, None) };
+        aetna.allocator.destroy_buffer(buffer.buffer, &buffer.allocation)?;
         unsafe {
             aetna
                 .device
