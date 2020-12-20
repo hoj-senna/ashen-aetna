@@ -625,7 +625,7 @@ pub const MAXIMAL_NUMBER_OF_TEXTURES: u32 = 1048576;
 
 ```
 
-[Continue]  (when the next chapter is done)
+[Continue](039_Textures3.md)
 
 
 

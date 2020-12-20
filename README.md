@@ -43,3 +43,4 @@
 36. [Resizing the window](text/036_Resizing.md)
 37. [A texture](text/037_Texture.md)
 38. [Two textures](text/038_Textures.md)
+39. [Text(ures)](text/039_Textures3.md)
