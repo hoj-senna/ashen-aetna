@@ -1103,7 +1103,7 @@ The overall design of `AllText` is not optimal: We can't remove letters yet. Als
 
 But rectifying that is something for another day (or, maybe, never). 
 
-[Continue]( When the next chapter exists. It may, again, take some time.)
+[Continue] ( When the next chapter exists. It may, again, take some time.)
 
 
 
