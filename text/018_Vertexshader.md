@@ -231,6 +231,10 @@ satisfied, ...
 We will try to make this whole topic a little easier on us and not use Vulkan directly, but the Vulkan Memory Allocator, VMA. A new line goes into
 Cargo.toml: `vk-mem = "0.2.2"`
 
+*(Later addition: If you experience some panics `'attempted to zero-initialize type 'ash::Device', which is invalid'` with vk-mem 0.2.2 and Rust 1.48.0 or
+later, check the beginning of* [Chapter 40](040_Updates.md)*, see *[the corresponding issue](https://github.com/hoj-senna/ashen-aetna/issues/2)* — or
+use an older Rust version.)*
+
 We first create an allocator: 
 
 ```rust
