@@ -45,3 +45,4 @@
 38. [Two textures](text/038_Textures.md)
 39. [Text(ures)](text/039_Textures3.md)
 40. [Updates](text/040_Updates.md)
+41. [DebugPrintf](text/041_DebugPrintf.md)

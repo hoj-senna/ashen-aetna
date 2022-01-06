@@ -314,7 +314,7 @@ In order to make the list of warnings shorter, I'll therefore include some crate
 
 The remaining warnings are some for `vk-mem`, and I don't intend to look at them more closely. 
 
-[Continue]  ( will again take some time, probably)
+[Continue](041_DebugPrintf.md)
 
 
 
