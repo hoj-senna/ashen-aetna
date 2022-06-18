@@ -233,7 +233,7 @@ Cargo.toml: `vk-mem = "0.2.2"`
 
 *(Later addition: If you experience some panics `'attempted to zero-initialize type 'ash::Device', which is invalid'` with vk-mem 0.2.2 and Rust 1.48.0 or
 later, check the beginning of* [Chapter 40](040_Updates.md)*, see *[the corresponding issue](https://github.com/hoj-senna/ashen-aetna/issues/2)* — or
-use an older Rust version.)*
+use an older Rust version.)* *(Even later addition: It may be a good idea to use [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) instead of vk-mem, even though that requires a few changes to the code presented below.)*
 
 We first create an allocator: 
 
